@@ -1,0 +1,17 @@
+# Core eval + plotting
+open_clip_torch>=2.26.1
+pillow
+tqdm
+matplotlib
+numpy
+pandas
+scipy
+
+# Upstream model deps (align with their README / your Colab)
+transformers==4.46.3
+diffusers
+opencv-python
+scipy
+gradio==4.44.1
+sympy==1.13.1
+
